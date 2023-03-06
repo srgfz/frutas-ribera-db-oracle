@@ -1,0 +1,16 @@
+Factura: 1000_11111111K
+Cliente: 11111111K
+****************************Productos****************************
+	Aguacate	5.98€/kg	3.0kg
+	Papaya	5.22€/kg	4.0kg
+	Guayabas	4.88€/kg	5.0kg
+	Aguacate	5.98€/kg	5.0kg
+	Guayabas	4.88€/kg	2.0kg
+	Chirimoya	5.44€/kg	3.0kg
+	Aguacate	5.98€/kg	6.0kg
+	Chirimoya	5.44€/kg	3.0kg
+	Aguacate	5.98€/kg	2.0kg
+	Chirimoya	5.44€/kg	3.0kg
+			 TOTAL 38.82
+			 IVA 1.5528
+			 IMPORTE TOTAL:  40.3728
